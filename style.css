@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color:wheat
+}
+#mainDiv{
+    border: 1px dotted rgb(209, 235, 170);
+    width:280px;
+    height:200px;
+    margin: 0 auto;
+    margin-top: 40%;
+}
+#btn{
+    background-color: antiquewhite;
+    margin-left:115px;
+    border-radius: 10%
+}
+#signIn{
+    background-color: antiquewhite;
+    margin-left:110px;
+    border-radius: 10%
+}
+#inpName{
+    margin-left:10px;
+    width: 252px;
+}
+#inpPass{
+    margin-left:10px;
+    width: 252px
+}
+#title{
+    text-align: center
+}
